@@ -1,6 +1,4 @@
-# we_Emopo
-Application de suivi des émotions positives.
-# Invisibility
+# Emopo
 
 [-> Repository](https://github.com/SimonDuperray/we_Emopo)
 
